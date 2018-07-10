@@ -1,0 +1,5 @@
+{
+  "name": "babel-preset-env-standalone",
+  "description": "mirror of babel-preset-env-standalone for bower, bundled and exposed as ES module",
+  "author": "Mikhail Bashkirov <bashmish@gmail.com>"
+}

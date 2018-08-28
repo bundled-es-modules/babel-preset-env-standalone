@@ -1,6 +1,7 @@
 {
-  "name": "babel-preset-env-standalone",
-  "description": "mirror of babel-preset-env-standalone for bower, bundled and exposed as ES module",
+  "name": "@bundled-es-modules/babel-preset-env-standalone",
+  "version": "1.6.2",
+  "description": "mirror of babel-preset-env-standalone, bundled and exposed as ES module",
   "author": "Mikhail Bashkirov <bashmish@gmail.com>",
   "main": "index.js",
   "devDependencies": {
